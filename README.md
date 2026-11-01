@@ -12,14 +12,10 @@ It connects rule-based signal detection over SigNoz telemetry (MCP log-signature
 
 ---
 
-## 📽️ Demo Video & Interactive Evidence
+## 📽️ Demo & Interactive Evidence
 
 > [!IMPORTANT]
 > **Submission Demonstration Artifacts**
-
-### 🎬 Live Demo Video
-[![Aegis-Observe Hackathon Demo Video](docs/assets/slack_proposal_card.png)](https://youtube.com/watch?v=YOUR_VIDEO_ID)
-*(Click above to watch the full demonstration video showing real-time MCP anomaly detection, Slack interactive authorization, and GitOps remediation)*
 
 ### 📸 Visual Interface Evidence
 | Interactive Slack Proposal | Slack PR Authorized | GitHub Pull Request Created & Merged |
